@@ -1,0 +1,6 @@
+projectKey=coss.org.demo:sampleapplication
+serverUrl=http://localhost:9000/sonar
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/sonar/dashboard/index/coss.org.demo:sampleapplication
+ceTaskId=AWS73pSZEH_pY4bW4MYy
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AWS73pSZEH_pY4bW4MYy
